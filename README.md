@@ -10,7 +10,7 @@ Node.js
 
 The following command converts the test file 'customer-data.csv':
 ```
-$ node csvtojson.js ./test/customer-data.csv
+$ node index.js ./test/customer-data.csv
 ```
 
 ## Acknowledgments
