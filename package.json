@@ -1,7 +1,7 @@
 {
   "name": "csv-to-json",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple program built with Node.js that converts any CSV file into a JSON file",
   "main": "csvtojson.js",
   "dependencies": {
     "csvtojson": "^1.1.9"
@@ -11,6 +11,17 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Remi Gallego",
+  "license": "ISC",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/remigallego/csv-to-json.git"
+  },
+  "bugs": {
+    "url": "https://github.com/remigallego/csv-to-json/issues"
+  },
+  "homepage": "https://github.com/remigallego/csv-to-json#readme"
 }
