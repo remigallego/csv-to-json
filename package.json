@@ -1,6 +1,6 @@
 {
   "name": "csv-to-json",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A simple program built with Node.js that converts any CSV file into a JSON file",
   "main": "csvtojson.js",
   "dependencies": {
